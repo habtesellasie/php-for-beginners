@@ -1,7 +1,7 @@
 <?php
 require 'function.php';
-require 'router.php';
 require 'Database.php';
+require 'router.php';
 $config = require('config.php');
 
 // try {
