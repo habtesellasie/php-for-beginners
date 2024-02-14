@@ -1,12 +1,12 @@
 <?php
 
 return [
-
     'database' => [
-        'server' => 'localhost',
-        'dbname' => 'laracast_db',
-        'port' => '3306',
-        'charset' => "utf8mb4"
+        'host' => 'localhost',
+        'port' => 3306,
+        'dbname' => 'myapp',
+        'charset' => 'utf8mb4'
     ],
 
+    //
 ];
